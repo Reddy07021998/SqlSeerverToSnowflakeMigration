@@ -1,0 +1,6 @@
+2025-10-02 09:54:20,975 [INFO] Connecting to SQL Server... Table: CUSTOMERS
+2025-10-02 09:54:20,979 [ERROR] Error fetching data from SQL Server: ('IM002', '[IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified (0) (SQLDriverConnect)')
+2025-10-02 09:54:20,979 [INFO] Connecting to SQL Server... Table: RENTALS
+2025-10-02 09:54:20,980 [ERROR] Error fetching data from SQL Server: ('IM002', '[IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified (0) (SQLDriverConnect)')
+2025-10-02 09:54:20,980 [INFO] Connecting to SQL Server... Table: PAYMENTS
+2025-10-02 09:54:20,981 [ERROR] Error fetching data from SQL Server: ('IM002', '[IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified (0) (SQLDriverConnect)')

@@ -1,0 +1,7 @@
+# requirements.txt
+
+pandas
+pyodbc
+snowflake-connector-python
+sqlalchemy
+python-dotenv
